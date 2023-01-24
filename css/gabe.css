@@ -1,0 +1,44 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: none;
+ }
+
+ li{
+   min-width: 15%;
+   background-color:aqua;
+   color:blue;
+   text-decoration:underline;
+   border: 1px solid black;
+   display: inline-block;
+   padding: 10px 10px;
+   border-radius: 100px;
+ }
+
+ img{
+   width: 24%;
+   margin: 0px 0px;
+   border: 10px dotted orange;
+   box-sizing: border-box;
+   padding: 11px;
+ }
+
+ p{
+   background-color: darkorange;
+   text-transform:capitalize;
+   font-style:oblique;
+   text-shadow:3px 3px white;
+ }
+ 
